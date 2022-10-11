@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A passionate Full Stack developer from México</h3>
+<h4>A young Full Stack programmer who is graduated from www.soyhenry.com, Looking for new adventures! </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
