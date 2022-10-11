@@ -6,6 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kenneth-flores-calvillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kenneth-iran-flores-calvillo-28aa38242" height="30" width="40" /></a>
+
+<a href="flores_iran@hotmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="www.linkedin.com/in/kenneth-iran-flores-calvillo-28aa38242" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
