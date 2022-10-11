@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A passionate Full Stack developer from México</h3>
-<h4>A young Full Stack programmer who is graduated from www.soyhenry.com, Looking for new adventures!.<br></br>
+<h4>A Mexican Full Stack programmer who is graduated from www.soyhenry.com, Looking to share my knowledge to the world!.<br></br>
 Person with creative thinking, problem solving, teamwork,
 communication and autonomy.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenneth2804&label=Profile%20views&color=0e75b6&style=flat" alt="kenneth2804" /> </p>
