@@ -2,7 +2,15 @@
 <h3 align="center">A passionate Full Stack developer from México</h3>
 <h4>A Mexican Full Stack programmer who is graduated from www.soyhenry.com, Looking to share my knowledge to the world!.<br></br>
 Person with creative thinking, problem solving, teamwork,
-communication and autonomy.</h4>
+communication and autonomy.
+I am able to handle multiple tasks on a daily basis.<br></br>
+I use a creative approach to problem solve.<br></br>
+I am a dependable person who is great at time management.<br></br>
+I am always energetic and eager to learn new skills.<br></br>
+I have experience working as part of a team and individually.<br></br>
+
+
+</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenneth2804&label=Profile%20views&color=0e75b6&style=flat" alt="kenneth2804" /> </p>
 
 <h3 align="left">Connect with me:</h3>
