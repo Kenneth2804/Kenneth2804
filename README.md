@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth</h1>
 <h3 align="center">A passionate Full Stack developer from México</h3>
-<h4>A Mexican Full Stack programmer who is graduated from www.soyhenry.com, Looking to share my knowledge to the world!.<br></br>
+<h4>A Mexican Full Stack programmer, Looking to share my knowledge to the world!.<br></br>
 Person with creative thinking, problem solving, teamwork,
 communication and autonomy.
 I am able to handle multiple tasks on a daily basis, also I use a creative approach to problem solve. I'm totally a dependable person who is great at time management who always is an energetic person. I can always learn new skills. I have experience working as part of a team and individually.<br></br>
